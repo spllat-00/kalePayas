@@ -7,6 +7,7 @@
 <h3 align="left">💻 Projects</h3>
 
 - [Shelloox](https://github.com/spllat-00/Shelloox)
+- [hack-the-box-notion](https://github.com/spllat-00/hackthebox-notion)
 - Small projects
 
 <h3 align="left">Connect with me:</h3>
